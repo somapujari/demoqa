@@ -1,0 +1,9 @@
+  The chromedriver version (125.0.6422.78) detected in PATH at C:\Users\Dell\AppData\Local\Programs\Python\Python310\chromedriver.exe might not be compatible with the detected chrome version (126.0.6478.114); currently, chromedriver 126.0.6478.63 is recommended for chrome 126.*, so it is advised to delete the driver in PATH and retry, 2024-06-21 06:09:19,647, _process_logs, WARNING : 30
+  * test_login started * , 2024-06-21 06:09:21,223, test_login, INFO : 20
+  ** opening  url ** , 2024-06-21 06:09:21,223, test_login, INFO : 20
+   ** entering username, 2024-06-21 06:09:25,964, test_login, INFO : 20
+  ** entering password** , 2024-06-21 06:09:26,160, test_login, INFO : 20
+   ** click on login  button ** , 2024-06-21 06:09:26,577, test_login, INFO : 20
+  ** taking screenshots, 2024-06-21 06:09:26,663, test_login, INFO : 20
+  ** verifying  login ** , 2024-06-21 06:09:26,901, test_login, INFO : 20
+  ** test login completed **, 2024-06-21 06:09:26,908, test_login, INFO : 20
